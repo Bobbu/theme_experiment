@@ -1,10 +1,14 @@
 # theme_experiment
 
-A new Flutter project.
+A straightforward project starter that introduces both Light and Dark themes into the mix. It currently eschews Material 3, but otherwise is a very nice starting point for any Flutter app where one would like to have a base theme for both light and dark modes.
+
+It borrows from two different tutorial videos one can find on YouTube by Mitch Koko, addressing both Google Fonts and Dark and Light themes as one.
+
+It also leaves in the default "counter" project elements just for good measure.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point if you are interested in having Google Fonts and Dark/Light themes in your own app. The only interesting dependency is the google_fonts package from https://pub.dev.
 
 A few resources to get you started if this is your first Flutter project:
 
